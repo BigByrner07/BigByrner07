@@ -1,3 +1,4 @@
+<h1> My Info :) <h6>
 - 👋 Hi, I’m @BigByrner07
 - 👀 I’m interested in Passsing This Class with flying colors
 - 🌱 I’m dabbling in the arts but im here if you need me
