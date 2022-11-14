@@ -9,3 +9,9 @@ BigByrner07/BigByrner07 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 code on 
+Replit
+Html
+CSS
+Python
+PHP(in training)
+c++(coding aimbots and esp)
