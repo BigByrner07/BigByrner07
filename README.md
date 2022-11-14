@@ -3,7 +3,7 @@
 - 🌱 I’m dabbling in the arts but im here if you need me
 - 💞️ I’m looking to collaborate on nothing im a solo man no help needed
 - 📫 How to reach me dont try and reach me im not interested in you
- <h1> Gaming <h6>
+ <h1> Gaming and Browsers/Uploading sites <h6>
 <!---
 BigByrner07/BigByrner07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) 
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
-
+<h1> Coding Languages  <h6>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
