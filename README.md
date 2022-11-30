@@ -6,6 +6,7 @@
 - 🌱 I’m dabbling in the arts but im here if you need me
 - 💞️ I’m looking to collaborate on nothing im a solo man no help needed
 - 📫 How to reach me dont try and reach me im not interested in you
+- Unloved by my parents
 <h1> Coding Languages  <h6>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
